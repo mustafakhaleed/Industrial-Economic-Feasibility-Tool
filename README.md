@@ -30,6 +30,7 @@ $$0 = NPV = \sum_{t=1}^{n} \frac{CashFlow_t}{(1+IRR)^t}$$
 * **Reporting:** ReportLab (PDF Generation)
 
 ## 📂 Installation & Usage
-1. **Clone the repo:**
+1. **Clone the repository:**
    ```bash
-git clone https://github.com/mustafakhaleed/Industrial-Economic-Feasibility-Tool.git
+   git clone [https://github.com/mustafakhaleed/Industrial-Economic-Feasibility-Tool.git](https://github.com/mustafakhaleed/Industrial-Economic-Feasibility-Tool.git)
+   cd Industrial-Economic-Feasibility-Tool
